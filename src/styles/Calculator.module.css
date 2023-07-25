@@ -1,0 +1,13 @@
+.calc {
+    display: flex;
+    margin: auto;
+    height: 75vh;
+    width: 35%;
+    flex-direction: column;
+    background: rgb(29, 27, 27);
+    border: rgb(211, 96, 14) solid 0.1em;
+    border-radius: 5%;
+    box-shadow: 0px 5px 20px #040404;
+    justify-content: center;
+    padding: 2%;
+}
